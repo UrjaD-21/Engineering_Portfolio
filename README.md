@@ -17,4 +17,3 @@
 - Robotics Fundamentals - AI and IoT Integrated
 - Industrial Automation Virtual Internship
 - Android Developer Virtual Internship
-- Android Developer Virtual Internship
