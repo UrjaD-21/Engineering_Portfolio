@@ -11,5 +11,7 @@
 2. Industrial Flame Detector PCB
 
 ## Certifications
+• Robotics Fundamentals - AI and IoT Integrated
+• Industrial Automation Virtual Internship
 • Android Developer Virtual Internship
-• Honeywell Edge AI Certification
+• Android Developer Virtual Internship
