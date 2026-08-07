@@ -1,0 +1,19 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_Keystone_1060_1x2032'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D2:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D3:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D4:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D5:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'D6:LED_SMD:LED_0805_2012Metric'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Resistor1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Total warnings: 0, errors: 0.
+
+
+
+
+Info: Total warnings: 0, errors: 0.
