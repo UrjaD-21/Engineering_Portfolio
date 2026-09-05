@@ -21,9 +21,8 @@ Welcome to my engineering portfolio. This repository documents my projects, expe
 
 ### 🔬 Circuit Design & Simulation
 
-- [Proteus 9.0 Professional](https://drive.google.com/file/d/1jyNxkb2lLSXuXyi3tnIMckGWKEdJt5Ki/view)
-- [NI Multisim](https://www.ni.com/en/support/downloads/software-products/download.multisim.html)
-- [Multisim Release Notes](https://www.ni.com/en/support/documentation/release-notes/product.multisim.html)
+- [NI Multisim](https://drive.google.com/file/d/1jyNxkb2lLSXuXyi3tnIMckGWKEdJt5Ki/view)
+- [Proteus 9.0 Professional](https://www.ni.com/en/support/downloads/software-products/download.multisim.html)
 
 > **Note:** Multisim provides education/student licensing and trial options through NI. Older releases such as 14.2 may require an applicable license or subscription.
 
