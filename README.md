@@ -22,7 +22,7 @@ Welcome to my engineering portfolio. This repository documents my projects, expe
 ### 🔬 Circuit Design & Simulation
 
 - [NI Multisim](https://drive.google.com/file/d/1jyNxkb2lLSXuXyi3tnIMckGWKEdJt5Ki/view)
-- [Proteus 9.0 Professional](https://www.ni.com/en/support/downloads/software-products/download.multisim.html)
+- [Proteus 9.0 Professional](https://getintopc.com/softwares/electrical-engineering/proteus-professional-2025-free-download/)
 
 > **Note:** Multisim provides education/student licensing and trial options through NI. Older releases such as 14.2 may require an applicable license or subscription.
 
@@ -72,23 +72,6 @@ An ESP32-based embedded smart speaker integrating:
 
 ---
 
-## 2. 🔥 Industrial Flame Detector PCB
-
-A dedicated PCB design for industrial flame detection and monitoring.
-
-### Key Areas
-
-- Sensor interfacing
-- Signal conditioning
-- Power regulation
-- PCB layout
-- Industrial electronics
-- Hardware reliability
-
-**Focus:** PCB Design • Industrial Electronics • Sensor Systems
-
----
-
 # 📂 Repository Structure
 
 ```text
@@ -96,26 +79,16 @@ Engineering-Portfolio/
 │
 ├── README.md
 │
-├── Projects/
-│   ├── ESP32-AI-Smart-Speaker/
-│   └── Industrial-Flame-Detector/
-│
-├── VLSI/
-│   ├── RTL/
-│   ├── FPGA/
-│   └── Digital-Design/
-│
 ├── PCB-Design/
 │   ├── KiCad/
 │   ├── Schematics/
 │   └── Gerbers/
 │
 ├── Embedded-Systems/
-│   ├── ESP32/
-│   └── Microcontrollers/
-│
-├── Simulations/
-│   ├── Proteus/
-│   └── Multisim/
-│
+│   ├── PCB_Designing/
+|       ├── Glowing Card/
+│           ├── Hardware/
+│           ├── Images/
+│           └── Gerber.zip
+| 
 └── Certifications/
